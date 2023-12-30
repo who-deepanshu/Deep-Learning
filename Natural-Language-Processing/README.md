@@ -6,7 +6,10 @@ This directory holds NLP methods which are used to pre-Process textual data befo
 
 ## Tokenization 
 - The process of converting a sequence of text into smaller parts, known as tokens. These tokens can be as small as characters or as long as words.
-![token](https://github.com/who-deepanshu/Deep-Learning/assets/129099978/9c026a0a-8b8b-451f-ad32-be342fe40a8c)
+
+<p align="center">
+  <img src="https://github.com/who-deepanshu/Deep-Learning/assets/129099978/9c026a0a-8b8b-451f-ad32-be342fe40a8c" width="600" height="370" </img>
+</p>
 
 
 ## Stopwords
@@ -15,4 +18,8 @@ This directory holds NLP methods which are used to pre-Process textual data befo
 
 ## Stemming & Lemmatization
 - Both aims to reduce inflections down to common base root words.
-![stemlemma](https://github.com/who-deepanshu/Deep-Learning/assets/129099978/a88c54f0-9a69-4960-890d-47819b36a076)
+
+<p align="center">
+  <img src="https://github.com/who-deepanshu/Deep-Learning/assets/129099978/a88c54f0-9a69-4960-890d-47819b36a076"</img>
+</p>
+
