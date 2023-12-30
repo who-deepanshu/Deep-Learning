@@ -18,6 +18,9 @@ A machine learning technology that gives computers the ability to interpret, man
 - Both aims to reduce inflections down to common base root words.
 
 <p align="center">
-  <img src="https://github.com/who-deepanshu/Deep-Learning/assets/129099978/a88c54f0-9a69-4960-890d-47819b36a076"</img>
+  <img src="https://github.com/who-deepanshu/Deep-Learning/assets/129099978/174b9fc1-5570-467c-a519-c157a1efb34c"</img>
 </p>
 
+## Bag Of Words
+## TD-IDF
+## Word-2-Vec
