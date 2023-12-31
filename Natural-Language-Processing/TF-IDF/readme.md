@@ -1,6 +1,6 @@
 # Term Frequency - Inverse Document Frequency (TF-IDF)
 - A widely used statistical method in natural language processing and information retrieval. It measures how important a term is within a document relative to a collection of documents (i.e., relative to a corpus).
-- TF-IDF can be performed by following 2 steps :
+- TF-IDF can be performed by following 3 steps :
 - Step 1 - Calculating term frequency as
 <p align="center">
   <img src="https://github.com/who-deepanshu/Deep-Learning/assets/129099978/852981d8-fd03-479e-85f2-617ab46854f9">
