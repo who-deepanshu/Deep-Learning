@@ -24,3 +24,4 @@ A machine learning technology that gives computers the ability to interpret, man
 ## Bag Of Words
 ## TD-IDF
 ## Word-2-Vec
+ 
